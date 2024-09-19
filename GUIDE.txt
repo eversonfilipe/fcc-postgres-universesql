@@ -1,0 +1,36 @@
+'freeCodeCamp (also referred to as Free Code Camp) is a non-profit educational
+organization[4] that consists of an interactive learning web platform, an online
+community forum, chat rooms, online publications and local organizations that intend to
+make learning software development accessible to anyone.'
+
+'Beginning with tutorials that introduce students to HTML, CSS, and JavaScript, students
+progress to project assignments that they complete either alone or in pairs. Upon
+completion of all project tasks, students are partnered with other nonprofits to build web
+applications, giving the students practical development experience.[5]'
+
+P.S: src in freeCodeCamp (https://en.wikipedia.org/wiki/FreeCodeCamp)
+--------------------------------------------------------------------------------------------
+'The self-paced curriculum[16] involves 1,400 hours of interactive coding challenges and web development projects, plus 800 hours of
+contributing to open-source[17] projects for nonprofits and is constantly expanded by more challenges and projects.[5] This translates
+into about one year of full-time coding. The curriculum is divided into Responsive Web Design, JavaScript Algorithms and Data
+Structures, Front End Libraries, Data Visualization, APIs and Microservices, and Information Security and Quality Assurance.
+Participants receive a certificate after completing each section.[18]'
+
+'The curriculum emphasizes pair programming, intended to foster a culture of collaboration and shared learning, which can overcome
+a student's doubts about the adequacy of their skills (popularly referred to as “impostor syndrome”).[19]'
+
+'The languages and technologies currently taught by freeCodeCamp include HTML5, PHP, CSS 3, JavaScript, jQuery, Bootstrap,
+Sass, React.js, Node.js, Python, Express.js, MongoDB, and Git.[20]'
+
+'To celebrate freeCodeCamp's 8th birthday on October 25, 2022, Quincy Larson published a tweet that announced free accredited
+degree programs in mathematics and computer science are currently in active development. Official release dates are still to be
+determined.[21]'
+
+'In 2023, freeCodeCamp partnered with Microsoft to develop a Foundational C# Certification.[22]'
+
+'In 2024, freeCodeCamp runs the largest programming channel on YouTube[citation needed], with 8.94 million subscribers.[23] They have
+made more than 700 full-length programming courses freely available there, and new courses are published every week.[24]'
+
+P.S: src in Curriculum (https://en.wikipedia.org/wiki/FreeCodeCamp)
+--------------------------------------------------------------------------------------------
+
