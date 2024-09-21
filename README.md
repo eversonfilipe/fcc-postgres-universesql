@@ -10,7 +10,7 @@
     and alike areas. By the way, i hope you enjoy it! </p>
 <p> You can have a better knowing of this database just reading the "Guide.txt" file. Guide is a <br>
     general file for guide viewers and readers, helping their understanding about the structure of the repository. <br>
-    QUestions?: see the README.md of my profile! <br> </p>
+    Questions?: see the README.md of my profile! <br> </p>
     GOODBYE!! :octocat:
     
 
